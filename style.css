@@ -63,3 +63,23 @@ a:hover {
 .text2 {
   padding: 2rem 1rem;
 }
+
+.image1 {
+  background-image: url("");
+  background-size: cover;
+  background-position: center;
+}
+
+.image2 {
+  background-image: url("");
+  background-size: cover;
+  background-position: center;
+}
+
+
+.image3 {
+  background-image: url("");
+  background-size: cover;
+  background-position: center;
+}
+
