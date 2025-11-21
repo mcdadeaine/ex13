@@ -28,3 +28,27 @@ h1 {
  background-color: #1e1f21;
  color: #fff;
 }
+
+a {
+  font-size: 16px;
+  text-decoration: none;
+  color: #0e9620;
+  text-transform: uppercase;
+}
+
+a:hover {
+  color: #02fa23;
+}
+
+.content {
+  display: grid;
+  grid-template: repeat(3, 240px) / repeat(2, 240px);
+  margin-bottom: 100px;
+}
+
+.text1, .text3 {
+  padding: 2rem 1rem;
+}
+.text2 {
+  padding: 2rem 1rem;
+}
