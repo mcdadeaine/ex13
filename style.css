@@ -15,3 +15,16 @@ html {
   background-color: #fff;
   font-family: helvetica, sans-serif;
 }
+
+body {
+  width: 480px;
+  margin: auto;
+}
+
+h1 {
+ padding: 1rem 1rem;
+ font-family: Mojangles;
+ text-transform: uppercase;
+ background-color: #1e1f21;
+ color: #fff;
+}
