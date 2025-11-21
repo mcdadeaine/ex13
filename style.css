@@ -65,20 +65,19 @@ a:hover {
 }
 
 .image1 {
-  background-image: url("");
+  background-image: url("assets/tree.webp");
   background-size: cover;
   background-position: center;
 }
 
 .image2 {
-  background-image: url("");
+  background-image: url("assets/wood.png");
   background-size: cover;
   background-position: center;
 }
 
-
 .image3 {
-  background-image: url("");
+  background-image: url("assets/minecraft-biomes-forest-1.jpg");
   background-size: cover;
   background-position: center;
 }
